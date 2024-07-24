@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an spot-it! game and on a movie webplatform | <a href="https://app.daily.dev/alexvolkihar"><img src="https://api.daily.dev/devcards/v2/RI5LOUoyVE6dZLbcg31bx.png?type=wide&r=7th" width="652" alt="Alexis's Dev Card"/></a>
+I'm currently working on an spot-it! game and on a movie webplatform | <a href="https://app.daily.dev/alexvolkihar"><img src="./devcard.png" width="652" alt="Alexis's Dev Card"/></a>
 
 
 ## 🌐 Socials:
