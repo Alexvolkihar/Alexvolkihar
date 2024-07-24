@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on an spot-it! game and on a movie webplatform | <a href="https://app.daily.dev/alexvolkihar"><img src="./devcard.png" width="652" alt="Alexis's Dev Card"/></a>
-
+I'm currently working on an spot-it! game and on a movie webplatform | <a href="https://app.daily.dev/alexvolkihar"><img src="./devcard.png" width="356" alt="Alexvolkihar's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexis-mabanza-858966176/) 
