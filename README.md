@@ -1,6 +1,6 @@
 # Hi, I'm Alexis 👋
 
-Full-stack developer based in France. I build web apps and developer tools, mostly with TypeScript, Vue and React, and lately a bit of native macOS with Swift.
+Full-stack developer based in France. I build web apps and developer tools, mostly with TypeScript, Vue, React and Symfony, and lately a bit of native macOS with Swift.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-mabanza-858966176/)
 [![daily.dev](https://img.shields.io/badge/daily.dev-0E1217?style=flat&logo=dailydotdev&logoColor=white)](https://app.daily.dev/alexvolkihar)
