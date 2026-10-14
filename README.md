@@ -9,6 +9,7 @@ Full-stack developer based in France. I build web apps and developer tools, most
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [**Portfolio**](https://github.com/Alexvolkihar/PortfolioAlexvolkihar) | My personal portfolio website. | HTML, CSS |
 | [**Mochikao**](https://github.com/Alexvolkihar/mochikao) · [demo](https://mochikao.alexvolkihar.ovh) | Deterministic SVG avatars: any string becomes a cute, unique character. Ships for React, Vue, Svelte, Solid and as a web component. | TypeScript, SVG |
 | [**Tsuta**](https://github.com/Alexvolkihar/Tsuta) | Native macOS Git client: commit graph, line-by-line staging, conflict resolution, interactive rebase, GitHub/GitLab reviews. | Swift, SwiftUI |
 | [**Slides**](https://github.com/Alexvolkihar/slides) · [live](https://slides-seven-eta.vercel.app) | Presentation decks built with Slidev. | Vue, Slidev |
@@ -29,3 +30,7 @@ Full-stack developer based in France. I build web apps and developer tools, most
   <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Alexvolkihar&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=35495e&icon_color=4FC08D&text_color=6e7681" />
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexvolkihar&layout=compact&hide_border=true&theme=transparent&title_color=35495e&text_color=6e7681" />
 </p>
+
+### ✍️ Random dev quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
