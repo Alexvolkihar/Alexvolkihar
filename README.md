@@ -5,7 +5,7 @@
 
 Full-stack developer based in France. I build web apps and developer tools, mostly with TypeScript, Vue, React and Symfony, and lately a bit of native macOS with Swift. I also work a lot with Claude Code: MCP servers, RAG pipelines and agent skills.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-mabanza-858966176/) [![daily.dev](https://img.shields.io/badge/daily.dev-0E1217?style=flat&logo=dailydotdev&logoColor=white)](https://app.daily.dev/alexvolkihar)
+[![Website](https://img.shields.io/badge/alexvolkihar.ovh-1f8a66?style=flat&logo=googlechrome&logoColor=white)](https://alexvolkihar.ovh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-mabanza-858966176/) [![daily.dev](https://img.shields.io/badge/daily.dev-0E1217?style=flat&logo=dailydotdev&logoColor=white)](https://app.daily.dev/alexvolkihar)
 
 ## 🚀 Featured projects
 
