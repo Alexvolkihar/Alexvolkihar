@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Alexis, full-stack developer based in France">
+<title>Alexis, full-stack developer based in France</title>
+<style>
+.cursor { animation: blink 1.1s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+</style>
+<defs>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.3" fill="#18241f"/>
+  </pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="298" rx="20" fill="#0f1714" stroke="#24352e" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="298" rx="20" fill="url(#dots)"/>
+
+<text x="64" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#4fc08d">@Alexvolkihar</text>
+<text x="61" y="160" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5" fill="#e7f1ed">Hi, I'm Alexis</text>
+<text x="64" y="206" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="23" fill="#b9cbc3">Full-stack developer in France. Web apps,</text>
+<text x="64" y="238" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="23" fill="#b9cbc3">dev tools and AI agents with Claude Code.</text>
+
+<rect x="650" y="40" width="510" height="220" rx="14" fill="#0a100e" stroke="#24352e" stroke-width="1.5"/>
+<circle cx="674" cy="64" r="5.5" fill="#ff5f57"/>
+<circle cx="693" cy="64" r="5.5" fill="#febc2e"/>
+<circle cx="712" cy="64" r="5.5" fill="#28c840"/>
+<text x="1136" y="69" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#7f978d">~/alexvolkihar</text>
+<text x="678" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#e7f1ed"><tspan fill="#4fc08d">$ </tspan>whoami</text>
+<text x="678" y="154" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#b9cbc3">full-stack developer, France</text>
+<text x="678" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#e7f1ed"><tspan fill="#4fc08d">$ </tspan>stack --top</text>
+<text x="678" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#b9cbc3">TypeScript · Vue · Symfony · Swift</text>
+<text x="678" y="244" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#e7f1ed"><tspan fill="#4fc08d">$ </tspan>claude &quot;what are we building today?&quot;</text>
+<rect class="cursor" x="1070" y="229" width="10" height="19" fill="#4fc08d"/>
+</svg>

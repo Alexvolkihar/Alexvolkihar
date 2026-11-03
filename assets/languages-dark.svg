@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190" role="img" aria-label="Top languages: Swift 32.7%, TypeScript 21.6%, HTML 15.0%, PHP 11.1%, Vue 10.3%, JavaScript 9.3%">
+<title>Top languages: Swift 32.7%, TypeScript 21.6%, HTML 15.0%, PHP 11.1%, Vue 10.3%, JavaScript 9.3%</title>
+<rect x="0.5" y="0.5" width="399" height="189" rx="12" fill="#0f1714" stroke="#24352e"/>
+<text x="24" y="38" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e7f1ed">Most used languages</text>
+<rect x="24" y="48" width="28" height="3" rx="1.5" fill="#4fc08d"/>
+<clipPath id="bar"><rect x="24" y="68" width="352" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)">
+<rect x="24.00" y="68" width="114.97" height="8" fill="#F05138"/>
+<rect x="138.97" y="68" width="75.99" height="8" fill="#3178c6"/>
+<rect x="214.95" y="68" width="52.78" height="8" fill="#e34c26"/>
+<rect x="267.73" y="68" width="39.13" height="8" fill="#4F5D95"/>
+<rect x="306.86" y="68" width="36.34" height="8" fill="#41b883"/>
+<rect x="343.20" y="68" width="32.80" height="8" fill="#f1e05a"/>
+</g>
+<circle cx="29" cy="100" r="5" fill="#F05138"/><text x="42" y="104" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#b9cbc3">Swift <tspan fill="#7f978d">32.7%</tspan></text>
+<circle cx="209" cy="100" r="5" fill="#3178c6"/><text x="222" y="104" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#b9cbc3">TypeScript <tspan fill="#7f978d">21.6%</tspan></text>
+<circle cx="29" cy="128" r="5" fill="#e34c26"/><text x="42" y="132" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#b9cbc3">HTML <tspan fill="#7f978d">15.0%</tspan></text>
+<circle cx="209" cy="128" r="5" fill="#4F5D95"/><text x="222" y="132" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#b9cbc3">PHP <tspan fill="#7f978d">11.1%</tspan></text>
+<circle cx="29" cy="156" r="5" fill="#41b883"/><text x="42" y="160" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#b9cbc3">Vue <tspan fill="#7f978d">10.3%</tspan></text>
+<circle cx="209" cy="156" r="5" fill="#f1e05a"/><text x="222" y="160" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#b9cbc3">JavaScript <tspan fill="#7f978d">9.3%</tspan></text>
+</svg>

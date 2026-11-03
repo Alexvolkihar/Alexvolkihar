@@ -1,0 +1,28 @@
+name: profile-stats
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * *"
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Render cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: python3 .github/scripts/stats.py
+      - name: Commit if changed
+        run: |
+          git add assets/stats-*.svg assets/languages-*.svg
+          if git diff --cached --quiet; then
+            echo "No change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update stats cards"
+          git push
