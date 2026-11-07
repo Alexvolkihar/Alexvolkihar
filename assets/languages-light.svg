@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190" role="img" aria-label="Top languages: Python 50.9%, Swift 15.1%, TypeScript 12.6%, Vue 7.4%, HTML 7.2%, JavaScript 6.7%">
-<title>Top languages: Python 50.9%, Swift 15.1%, TypeScript 12.6%, Vue 7.4%, HTML 7.2%, JavaScript 6.7%</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190" role="img" aria-label="Top languages: Python 52.1%, Swift 14.7%, TypeScript 12.4%, Vue 7.3%, HTML 7.0%, JavaScript 6.5%">
+<title>Top languages: Python 52.1%, Swift 14.7%, TypeScript 12.4%, Vue 7.3%, HTML 7.0%, JavaScript 6.5%</title>
 <rect x="0.5" y="0.5" width="399" height="189" rx="12" fill="#f6faf8" stroke="#d3e2db"/>
 <text x="24" y="38" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#13201b">Most used languages</text>
 <rect x="24" y="48" width="28" height="3" rx="1.5" fill="#1f8a66"/>
 <clipPath id="bar"><rect x="24" y="68" width="352" height="8" rx="4"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="24.00" y="68" width="179.25" height="8" fill="#3572A5"/>
-<rect x="203.25" y="68" width="53.17" height="8" fill="#F05138"/>
-<rect x="256.42" y="68" width="44.48" height="8" fill="#3178c6"/>
-<rect x="300.90" y="68" width="26.09" height="8" fill="#41b883"/>
-<rect x="326.99" y="68" width="25.43" height="8" fill="#e34c26"/>
-<rect x="352.42" y="68" width="23.58" height="8" fill="#f1e05a"/>
+<rect x="24.00" y="68" width="183.37" height="8" fill="#3572A5"/>
+<rect x="207.37" y="68" width="51.65" height="8" fill="#F05138"/>
+<rect x="259.02" y="68" width="43.72" height="8" fill="#3178c6"/>
+<rect x="302.74" y="68" width="25.57" height="8" fill="#41b883"/>
+<rect x="328.31" y="68" width="24.70" height="8" fill="#e34c26"/>
+<rect x="353.01" y="68" width="22.99" height="8" fill="#f1e05a"/>
 </g>
-<circle cx="29" cy="100" r="5" fill="#3572A5"/><text x="42" y="104" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4f48">Python <tspan fill="#6b7f77">50.9%</tspan></text>
-<circle cx="209" cy="100" r="5" fill="#F05138"/><text x="222" y="104" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4f48">Swift <tspan fill="#6b7f77">15.1%</tspan></text>
-<circle cx="29" cy="128" r="5" fill="#3178c6"/><text x="42" y="132" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4f48">TypeScript <tspan fill="#6b7f77">12.6%</tspan></text>
-<circle cx="209" cy="128" r="5" fill="#41b883"/><text x="222" y="132" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4f48">Vue <tspan fill="#6b7f77">7.4%</tspan></text>
-<circle cx="29" cy="156" r="5" fill="#e34c26"/><text x="42" y="160" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4f48">HTML <tspan fill="#6b7f77">7.2%</tspan></text>
-<circle cx="209" cy="156" r="5" fill="#f1e05a"/><text x="222" y="160" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4f48">JavaScript <tspan fill="#6b7f77">6.7%</tspan></text>
+<circle cx="29" cy="100" r="5" fill="#3572A5"/><text x="42" y="104" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4f48">Python <tspan fill="#6b7f77">52.1%</tspan></text>
+<circle cx="209" cy="100" r="5" fill="#F05138"/><text x="222" y="104" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4f48">Swift <tspan fill="#6b7f77">14.7%</tspan></text>
+<circle cx="29" cy="128" r="5" fill="#3178c6"/><text x="42" y="132" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4f48">TypeScript <tspan fill="#6b7f77">12.4%</tspan></text>
+<circle cx="209" cy="128" r="5" fill="#41b883"/><text x="222" y="132" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4f48">Vue <tspan fill="#6b7f77">7.3%</tspan></text>
+<circle cx="29" cy="156" r="5" fill="#e34c26"/><text x="42" y="160" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4f48">HTML <tspan fill="#6b7f77">7.0%</tspan></text>
+<circle cx="209" cy="156" r="5" fill="#f1e05a"/><text x="222" y="160" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#3d4f48">JavaScript <tspan fill="#6b7f77">6.5%</tspan></text>
 </svg>
